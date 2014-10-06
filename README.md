@@ -1,5 +1,9 @@
 # Data Description
 
+Raw CSV sample is [here](https://github.com/hackathonBI/Geewa/blob/master/sample%20data/sample.csv).
+Sample description with pictures is [here](https://docs.google.com/spreadsheets/d/1OiyuSKiDQFqsYSMgF8FOwNf-t6NkclAKOaJbv9nugRg/edit?usp=sharing).
+
+
 ## Data category :
 
 - createTime (timestamp of the event)
