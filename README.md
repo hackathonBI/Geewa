@@ -1,7 +1,7 @@
 # Data Description
 
 ## Data category :
--------------
+
 - createTime (timestamp of the event)
 - user (user id)
 - action (event name)
@@ -15,7 +15,7 @@
 - data (additional event information)
 
 ## Event types:
-------------
+
 1. Technical Onboarding Funnel events
   1. activity/acquisition/install or activity/acquisition/click (infom about source via which user came to the game)
   2. guest-user
